@@ -80,8 +80,8 @@ body {
 .quantity-btn {
     padding: 5px 10px;
     margin: 0 5px;
-    background-color: #007bff;
-    color: #fff;
+    /* background-color: #007bff; */
+    color: #28a745;
     border: none;
     cursor: pointer;
     border-radius: 4px;
@@ -95,8 +95,8 @@ body {
 }
 
 .remove-btn {
-    background-color: #dc3545;
-    color: #fff;
+    /* background-color: #dc3545; */
+    color: #666;
     border: none;
     cursor: pointer;
     padding: 5px 10px;
